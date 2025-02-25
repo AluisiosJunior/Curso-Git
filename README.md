@@ -1,3 +1,3 @@
 # Curso Git
- Repositorio Curso Github
- Testando o repositorio GitHub
+ Repositório Curso Github
+ Testando o repositório GitHub
